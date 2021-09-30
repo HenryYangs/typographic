@@ -1,3 +1,3 @@
-# Lychee
+# typographic
 
-> An admin site of all
+> A basic project template for Frontend
